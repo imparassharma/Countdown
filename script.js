@@ -17,7 +17,7 @@ const hour = end_date.getHours();
 const minute = end_date.getMinutes();
 const sec = end_date.getSeconds();
 
-deadline.textContent = `The end date is ${day}, ${date} ${month} ${year} ${hour} : ${minute} am`;
+deadline.textContent = `The countdown is ending on ${day}, ${date} ${month} ${year} ${hour} : ${minute} am`;
 
 
 const item = document.querySelectorAll(".box h2");
