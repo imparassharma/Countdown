@@ -82,7 +82,9 @@ body{
         height: 10vh;
         margin-bottom: 25px;
         margin-right: 0;
-        text-align:center;
     }
+    
+    .box span{
+        margin-top:-20px;
     
 }
