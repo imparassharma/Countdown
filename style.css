@@ -57,7 +57,7 @@ body{
 @media screen and (max-width:400px){
 
     .heading{
-        margin-top: 25px;
+        margin-top: 50px;
     }
 
     .heading h1{
@@ -79,7 +79,7 @@ body{
     }
 
     .box{
-        height: 15vh;
+        height: 10vh;
         margin-bottom: 25px;
         margin-right: 0;
     }
